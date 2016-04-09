@@ -1,5 +1,5 @@
 {
-  "name": "react-hot-boilerplate",
+  "name": "AlejandroPersonalPage",
   "version": "1.0.0",
   "description": "Boilerplate for ReactJS project with hot code reloading",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-hot-boilerplate.git"
+    "url": "https://github.com/alejodiazg/alejodiazg.github.io"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaearon/react-hot-boilerplate/issues"
+    "url": "https://github.com/alejodiazg/alejodiazg.github.io/issues"
   },
-  "homepage": "https://github.com/gaearon/react-hot-boilerplate",
+  "homepage": "https://github.com/alejodiazg/alejodiazg.github.io",
   "devDependencies": {
     "babel-core": "^6.0.20",
     "babel-eslint": "^4.1.3",
