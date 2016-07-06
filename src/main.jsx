@@ -1,5 +1,5 @@
 var React = require('react');
 var ReactDom = require('react-dom');
-var List = require('./components/List.jsx');
+var Routes = require('./Routes.jsx');
 
-ReactDom.render(<List/> , document.getElementById('app'));
+ReactDom.render(Routes , document.getElementById('app'));
