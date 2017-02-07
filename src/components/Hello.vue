@@ -16,16 +16,21 @@
       <li><a href="https://github.com/vuejs/vueify" target="_blank">vueify</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
     </ul>
+    <progress-circle :percentage="20" :size="50" :shadow="true"></progress-circle>
   </div>
 </template>
 
 <script>
+import ProgressCircle from './Utils/ProgressCircle.vue'
 export default {
   name: 'hello',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
     }
+  },
+  components: {
+    'progress-circle' : ProgressCircle
   }
 }
 </script>
